@@ -1,0 +1,34 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+}
+
+#question {
+  width: 30%;
+  padding: 1em;
+  font-size: 1.5em;
+}
+
+table {
+  margin-left: 5em;
+}
+
+th {
+  font-size: 6em;
+  border: solid;
+  text-align: center;
+  background-color: white;
+}
+
+td {
+  text-align: center;
+  background-color: white;
+  border-bottom: solid;
+  border-color: black;
+  color: black;
+  font-size: 2em;
+}
